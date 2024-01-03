@@ -5,5 +5,6 @@ from .views import *
 
 
 urlpatterns = [
-    path('', IndexView.as_view(), name="home")
+    path('', home, name="home"),
+     path('add/', add_task, name='add_task'),
 ]
