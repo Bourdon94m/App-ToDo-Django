@@ -1,4 +1,3 @@
-<title>Short To-Do App with Django (WIP) 🚀</title>
 
 <h1 style="color: #3d59b3;">Short To-Do App with Django (WIP) 🚀</h1>
 
